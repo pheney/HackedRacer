@@ -67,3 +67,4 @@ Temporary Items
 *.prototype
 *.physicmaterial
 *.unity
+*.asset
